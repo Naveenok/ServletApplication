@@ -15,7 +15,6 @@ public class DAOClass {
 	
 		Integer answer = n1 + n2;
 		obj1.setAns(answer);
-		System.out.println(obj1);
 		return obj1;
 
 	}
